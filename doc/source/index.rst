@@ -6,6 +6,14 @@
 OpenStack Magnum Design Specifications
 ==================================================
 
+Yoga approved specs:
+
+.. toctree::
+   :glob:
+   :maxdepth: 2
+
+   specs/yoga/*
+
 Ussuri approved specs:
 
 .. toctree::
