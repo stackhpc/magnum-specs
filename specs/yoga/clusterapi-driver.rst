@@ -84,6 +84,8 @@ but introduces some innovations that would be beneficial to Magnum.
 +--------------------------+----------------------+---------------------------+
 | Horizon dashboard        | Supported.           | Not supported.            |
 +--------------------------+----------------------+---------------------------+
+| Delegated authorisation  | Keystone trust.      | Application credential.   |
++--------------------------+----------------------+---------------------------+
 | Kubernetes CRD API       | None.                | Helm, flux, argo, etc.    |
 +--------------------------+----------------------+---------------------------+
 | In-place upgrades        | Partial - depends on | Various supported         |
